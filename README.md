@@ -1,2 +1,2 @@
 # js-hindi-youtube
-A code repo for javascript series
+A code repo for javascript series (new series)
